@@ -350,7 +350,7 @@
     </user_interface>
     <view_3d>
       <ThemeView3D
-        grid="#19191980"
+        grid="#20202080"
         clipping_border_3d="#808080ff"
         wire="#808080"
         wire_edit="#575757"
@@ -905,21 +905,21 @@
             header="#11111100"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
-            button="#414141ff"
+            button="#11111100"
             button_title="#ffffff"
             button_text="#e5e5e5"
             button_text_hi="#ffffff"
             navigation_bar="#00000000"
             execution_buts="#00000000"
-            tab_active="#4b4b4b"
-            tab_inactive="#2b2b2b"
-            tab_back="#232323ff"
-            tab_outline="#232323"
+            tab_active="#333333"
+            tab_inactive="#161616"
+            tab_back="#161616ff"
+            tab_outline="#161616"
             >
             <panelcolors>
               <ThemePanelColors
                 header="#31313100"
-                back="#333333b3"
+                back="#19191900"
                 sub_back="#0000003e"
                 >
               </ThemePanelColors>
